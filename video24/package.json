@@ -1,0 +1,15 @@
+{
+  "name": "video24",
+  "version": "1.0.0",
+  "description": "video site",
+  "main": "index.js",
+  "scripts": {
+    "start": "ws",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yemalin godonou",
+  "license": "ISC",
+  "devDependencies": {
+    "local-web-server": "^1.2.8"
+  }
+}
