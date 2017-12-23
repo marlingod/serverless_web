@@ -1,9 +1,3 @@
-/**
- * Created by Peter Sbarski
- * Serverless Architectures on AWS
- * http://book.acloud.guru/
- * Last Updated: Feb 12, 2017
- */
 
 'use strict';
 
